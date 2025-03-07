@@ -13,11 +13,11 @@
     "release": "release-it"
   },
   "devDependencies": {
-    "@release-it/conventional-changelog": "^8.0.1",
-    "release-it": "^17.6.0"
+    "@release-it/conventional-changelog": "^10.0.0",
+    "release-it": "^18.1.2"
   },
   "dependencies": {
-    "prettier-edgejs": "^0.2.16"
+    "prettier-plugin-edgejs": "^1.0.0"
   },
   "homepage": "https://github.com/adonisjs/prettier-config#readme",
   "bugs": {
