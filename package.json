@@ -1,7 +1,7 @@
 {
   "name": "@adonisjs/prettier-config",
   "description": "Prettier config preset for AdonisJS packages and applications",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "files": [
     "index.json"
   ],
