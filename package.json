@@ -2,12 +2,13 @@
   "name": "@adonisjs/prettier-config",
   "description": "Prettier config preset for AdonisJS packages and applications",
   "version": "1.4.1",
+  "type": "module",
   "files": [
-    "index.json"
+    "index.js"
   ],
-  "main": "./index.json",
+  "main": "./index.js",
   "exports": {
-    ".": "./index.json"
+    ".": "./index.js"
   },
   "scripts": {
     "release": "release-it"
