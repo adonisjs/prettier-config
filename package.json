@@ -4,11 +4,11 @@
   "version": "1.4.2",
   "type": "module",
   "files": [
-    "index.js"
+    "index.mjs"
   ],
-  "main": "./index.js",
+  "main": "./index.mjs",
   "exports": {
-    ".": "./index.js"
+    ".": "./index.mjs"
   },
   "scripts": {
     "release": "release-it"
