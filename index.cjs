@@ -1,6 +1,4 @@
-import * as edgePlugin from "prettier-plugin-edgejs";
-
-export default {
+module.exports = {
   trailingComma: "es5",
   semi: false,
   singleQuote: true,
@@ -9,5 +7,5 @@ export default {
   bracketSpacing: true,
   arrowParens: "always",
   printWidth: 100,
-  plugins: [edgePlugin],
+  plugins: [require.resolve("prettier-plugin-edgejs")],
 };
