@@ -7,5 +7,5 @@ module.exports = {
   bracketSpacing: true,
   arrowParens: "always",
   printWidth: 100,
-  plugins: [require.resolve("prettier-plugin-edgejs")],
+  plugins: [require.resolve("prettier-edge")],
 };
