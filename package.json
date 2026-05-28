@@ -11,6 +11,7 @@
     ".": "./index.cjs"
   },
   "scripts": {
+    "test": "echo 'No tests'",
     "release": "release-it"
   },
   "devDependencies": {
