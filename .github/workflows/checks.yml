@@ -10,9 +10,3 @@ permissions:
 jobs:
   test:
     uses: adonisjs/.github/.github/workflows/test.yml@616f1f5863b4a3a73eb49cd0d16e8719bcd34e7a # next
-
-  lint:
-    uses: adonisjs/.github/.github/workflows/lint.yml@616f1f5863b4a3a73eb49cd0d16e8719bcd34e7a # next
-
-  typecheck:
-    uses: adonisjs/.github/.github/workflows/typecheck.yml@616f1f5863b4a3a73eb49cd0d16e8719bcd34e7a # next
