@@ -15,8 +15,8 @@
     "release": "release-it"
   },
   "devDependencies": {
-    "@release-it/conventional-changelog": "^11.0.0",
-    "release-it": "^20.0.1"
+    "@release-it/conventional-changelog": "^12.0.0",
+    "release-it": "^21.0.1"
   },
   "homepage": "https://github.com/adonisjs/prettier-config#readme",
   "bugs": {
